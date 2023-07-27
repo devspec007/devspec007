@@ -11,12 +11,7 @@
   </a>
 </p>
 
-# 🐴 My name is Michael Hayashi.. #
-<div>
-I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
-</div>
-
-# 💻 My favorite tools and technologies
+# 💻 My Proficient Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -38,10 +33,10 @@ I am a software developer with 10+ long years of experience. My technical skills
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -50,10 +45,10 @@ I am a software developer with 10+ long years of experience. My technical skills
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -114,10 +109,10 @@ I am a software developer with 10+ long years of experience. My technical skills
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
+              <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
-    </td>
+    </td> -->
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
